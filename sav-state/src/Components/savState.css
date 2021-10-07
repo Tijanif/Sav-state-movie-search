@@ -1,0 +1,12 @@
+.container {
+  display: grid;
+  grid-template-columns: 400px 1fr 700px;
+  border-top: solid black 1px;
+  border-bottom: solid black 1px;
+}
+
+.search {
+  border-radius: 15px;
+  margin-top: 30px;
+  padding: 8px;
+}

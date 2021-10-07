@@ -1,0 +1,9 @@
+.Movie-List {
+  overflow: scroll;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.Movie-li {
+  margin: 16px;
+}

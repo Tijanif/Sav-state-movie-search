@@ -1,0 +1,27 @@
+.container-two {
+  display: grid;
+  place-items: center;
+  justify-content: center;
+  margin-left: 50px;
+}
+
+.slug {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+}
+.seasons-Container {
+  display: grid;
+  grid-template-rows: repeat(auto, 100px);
+}
+
+.serial-images {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
+.image-li {
+  margin: 10px;
+}
+
+.main-Slug {
+  margin: 0 200px 0 200px;
+}
