@@ -8,6 +8,8 @@ You are the owner of a movie theater in Crypto City. Your customers are bored w
 
 ## To start the project clone the repo:
 
+[https://github.com/Tijanif/Sav-state-movie-search/tree/master/sav-state](https://github.com/Tijanif/Sav-state-movie-search/tree/master/sav-state)
+
 In the project directory, you can run:
 
 ### `npm start`
